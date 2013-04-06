@@ -3,7 +3,7 @@ Solarized xmonad & xmobar.
 
 Config files for xmonad.hs and .xmobarrc in Solarized theme. xmonad.hs is bare default, no special key binding or configuration.
 
-Requiremtns:
+Requirements:
 xmonad, xmonad-contrib, xmobar, and Inconsolata font.
 
 Special instruction:
